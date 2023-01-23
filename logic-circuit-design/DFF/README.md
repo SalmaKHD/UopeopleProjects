@@ -1,1 +1,0 @@
-This circuit converts an active-high D-Latch into a D-Flip-Flop by implementing a clock which controls the enable pin of the D-Latch.
