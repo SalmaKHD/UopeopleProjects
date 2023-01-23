@@ -1,4 +1,5 @@
-// This assembly program implements the following code written in Java
+This assembly program implements the following code written in Java.
+```
 int i = 0;
 int j = 0;
 while(i == 0) {
@@ -6,3 +7,4 @@ while(i == 0) {
     if (j == 5) 
         i = j;
 }
+```
