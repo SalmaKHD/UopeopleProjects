@@ -1,0 +1,1 @@
+This circuit converts a D-Flip-Flop into a D-Latch by manually controlling its clock which acts like the enable pin of the newly created D-latch.
