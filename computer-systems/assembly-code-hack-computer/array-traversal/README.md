@@ -1,14 +1,18 @@
 // This assembly program implements the following code written in Java
-int[] arr = new int[6];
-arr[0] =5;
-arr[1]=4;
-arr[2]=3;
-arr[3]=2;
-arr[4]=1;
-arr[5]=0;
+<details><summary>click to see the code</summary>
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">[]</span> arr <span style="color: #333333">=</span> <span style="color: #008800; font-weight: bold">new</span> <span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">6</span><span style="color: #333333">];</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">0</span><span style="color: #333333">]</span> <span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">5</span><span style="color: #333333">;</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">1</span><span style="color: #333333">]=</span><span style="color: #0000DD; font-weight: bold">4</span><span style="color: #333333">;</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">2</span><span style="color: #333333">]=</span><span style="color: #0000DD; font-weight: bold">3</span><span style="color: #333333">;</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">3</span><span style="color: #333333">]=</span><span style="color: #0000DD; font-weight: bold">2</span><span style="color: #333333">;</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">4</span><span style="color: #333333">]=</span><span style="color: #0000DD; font-weight: bold">1</span><span style="color: #333333">;</span>
+arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">5</span><span style="color: #333333">]=</span><span style="color: #0000DD; font-weight: bold">0</span><span style="color: #333333">;</span>
 
-int i;
-for (i=0; i<=5; i++) {
-if (arr[i] == 0)
-    arr[i] = 5;
-}
+<span style="color: #333399; font-weight: bold">int</span> i<span style="color: #333333">;</span>
+<span style="color: #008800; font-weight: bold">for</span> <span style="color: #333333">(</span>i<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">0</span><span style="color: #333333">;</span> i<span style="color: #333333">&lt;=</span><span style="color: #0000DD; font-weight: bold">5</span><span style="color: #333333">;</span> i<span style="color: #333333">++)</span> <span style="color: #333333">{</span>
+<span style="color: #008800; font-weight: bold">if</span> <span style="color: #333333">(</span>arr<span style="color: #333333">[</span>i<span style="color: #333333">]</span> <span style="color: #333333">==</span> <span style="color: #0000DD; font-weight: bold">0</span><span style="color: #333333">)</span>
+    arr<span style="color: #333333">[</span>i<span style="color: #333333">]</span> <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">5</span><span style="color: #333333">;</span>
+<span style="color: #333333">}</span>
+</pre></div>
+
+</details>
