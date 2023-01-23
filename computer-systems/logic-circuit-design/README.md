@@ -1,1 +1,1 @@
-This repo contains some sequential and combinational circuits that constitute some hardware components of a computer. The .circ files can be executed using the Logism software available at http://www.cburch.com/logisim/download.html
+This repo contains some sequential and combinational circuits that constitute some hardware components of a computer. The .circ files can be executed using the Logism software available at [Getting Logism](http://www.cburch.com/logisim/download.html).
