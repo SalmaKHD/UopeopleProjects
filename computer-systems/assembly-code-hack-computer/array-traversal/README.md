@@ -1,4 +1,4 @@
-// This assembly program implements the following code written in Java
+This assembly program implements the following code written in Java.
 <details><summary>click to see the code</summary>
 <!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">[]</span> arr <span style="color: #333333">=</span> <span style="color: #008800; font-weight: bold">new</span> <span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">6</span><span style="color: #333333">];</span>
 arr<span style="color: #333333">[</span><span style="color: #0000DD; font-weight: bold">0</span><span style="color: #333333">]</span> <span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">5</span><span style="color: #333333">;</span>
