@@ -1,1 +1,1 @@
- This repo contains assembly code written for the Hack computer. The .asm files can be executed using the CPU emulator supplied with the Software suit at https://www.nand2tetris.org/
+ This repo contains assembly code written for the Hack computer. The .asm files can be executed using the CPU emulator supplied with the Software suit at [From Nand to Tetris](https://www.nand2tetris.org/).
