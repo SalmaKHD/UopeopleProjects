@@ -1,4 +1,5 @@
-// This assembly program implements the following code written in Java
+This assembly program implements the following code written in Java.
+```
 int[] arr = new int[6];
 arr[0] =5;
 arr[1]=4;
@@ -25,3 +26,4 @@ while (flag == 1)
         }
     }
 }
+```
