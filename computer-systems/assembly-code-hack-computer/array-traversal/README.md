@@ -9,8 +9,8 @@ arr[4]=1;
 arr[5]=0;
 int i;
 for (i=0; i<=5; i++) {
-if (arr[i] == 0)
-arr[i] = 5;
+    if (arr[i] == 0)
+        arr[i] = 5;
 }
 ```
 
